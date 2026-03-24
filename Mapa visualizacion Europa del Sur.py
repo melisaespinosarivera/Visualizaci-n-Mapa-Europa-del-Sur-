@@ -13,7 +13,7 @@ st.set_page_config(
 
 # ══════════════════════════════════════════════════════════════════════════════
 # 👇 CAMBIA ESTA RUTA por la ubicación real de tu archivo CSV
-CSV_PATH = "/Users/melisaespinosarivera/Desktop/rd_p_perssci$defaultview_linear_2_0.csv"   # ← ruta relativa (misma carpeta que app.py)
+CSV_PATH = "rd_p_perssci$defaultview_linear_2_0.csv"   # ← ruta relativa (misma carpeta que app.py)
 # CSV_PATH = r"C:\Users\TuUsuario\Descargas\rd_p_perssci.csv"  # ← ruta absoluta Windows
 # CSV_PATH = "/home/usuario/datos/rd_p_perssci.csv"            # ← ruta absoluta Linux/Mac
 # ══════════════════════════════════════════════════════════════════════════════
